@@ -2,6 +2,14 @@
 
 A small React frontend assignment that lets users preview a token swap quote. Users can choose source and target tokens, enter an amount, see the estimated receive amount, and submit a mocked swap quote.
 
+## Online Demo
+
+View the deployed app:
+
+```txt
+https://lamnguyen03-crypto.github.io/challenge-swap-form/
+```
+
 ## Tech Stack
 
 - React
